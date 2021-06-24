@@ -1,3 +1,3 @@
-# Heaan Platform Front Development
+# React dev environment setting
 
 ### Environment
